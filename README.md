@@ -33,4 +33,7 @@ Emoji list: https://github.com/caiyongji/emoji-list
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI models and token counting](https://mpn.btnguyen2k.me/cms/openai/encodings-tokens/)
+- [Convert an HTML template to Vue](https://mpn.btnguyen2k.me/cms/frontend/convert-html-template-to-vue/)
+- [How to estimate number of tokens?](https://mpn.btnguyen2k.me/cms/openai/estimate-number-tokens/)
 <!-- BLOG-POST-LIST:END -->
