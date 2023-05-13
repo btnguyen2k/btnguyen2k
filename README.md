@@ -38,7 +38,7 @@ I am a Technologist living in Sydney, Australia.
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />        
 </p>                    
-<img class="mb-4" style="margin-left: 0px !important;" alt="btnguyen2k's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btnguyen2k&hide=css,html&show_icons=true&count_private=true&theme=chartreuse-dark&layout=compact" />
+<img class="mb-4" style="margin-left: 0px !important;" alt="btnguyen2k's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btnguyen2k&hide=css,html&show_icons=true&count_private=true&theme=chartreuse-dark&layout=compact&langs_count=6" />
 
 
 ## ⭐ Github stats
