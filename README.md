@@ -21,11 +21,16 @@ Emoji list: https://github.com/caiyongji/emoji-list
 
 🔭 You can reach me on [GitHub](https://github.com/btnguyen2k), [LinkedIn](https://www.linkedin.com/in/btnguyen2k/), or [Microsoft for Startups Founders Hub](https://foundershub.startups.microsoft.com).
 
-## <i class="fas fa-code"></i> Favorite languages and tools
+## Favorite languages and tools
 
 <img class="mb-4" style="margin-left: 0px !important;" alt="btnguyen2k's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btnguyen2k&hide=css,html&show_icons=true&count_private=true&theme=algolia&layout=compact" />
 
 
-## <i class="fab fa-github"></i> Github stats
+## Github stats
 
 <img class="mb-4" style="margin-left: 0px !important;" alt="btnguyen2k's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=btnguyen2k&show_icons=true&count_private=true&theme=algolia&layout=compact" />
+
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
