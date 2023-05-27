@@ -21,7 +21,7 @@ I am a Technologist living in Sydney, Australia.
 
 👯 I am working as a Cloud Solution Architect at [Microsoft](https://microsoft.com).
 
- 🌱 I am also a volunteer expert at [Microsoft for Startups Founders Hub](https://foundershub.startups.microsoft.com), providing assistance to startups as they progress towards the future.
+🌱 I am also a volunteer expert at [Microsoft for Startups Founders Hub](https://foundershub.startups.microsoft.com), providing assistance to startups as they progress towards the future.
 
 📰 I write [technical blogs](https://mpn.btnguyen2k.me) in my free time.
 
