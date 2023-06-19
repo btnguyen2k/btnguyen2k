@@ -48,9 +48,9 @@ I am a Technologist living in Sydney, Australia.
 ## ✍️ Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Search with OpenAI Embeddings](https://mpn.btnguyen2k.me/cms/openai/semantic-search-openai-embeddings/)
 - [Go database/sql driver for AWS DynamoDB](https://mpn.btnguyen2k.me/cms/programming/go-golang-dynamodb-sql/)
 - [Host your website on Azure, for free](https://mpn.btnguyen2k.me/cms/cloud/azure-host-website-free/)
 - [Normalize input text for embeddings or not?](https://mpn.btnguyen2k.me/cms/openai/normalization-embeddings/)
 - [Calculating checksums in Go](https://mpn.btnguyen2k.me/cms/programming/go-golang-checksum/)
-- [OpenAI models and token counting](https://mpn.btnguyen2k.me/cms/openai/encodings-tokens/)
 <!-- BLOG-POST-LIST:END -->
