@@ -48,9 +48,9 @@ I am a Technologist living in Sydney, Australia.
 ## ✍️ Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Split long text to fit LLM constraints using LangChain.](https://mpn.btnguyen2k.me/cms/programming/split-text-for-llm/)
 - [Build your own embeddings API server](https://mpn.btnguyen2k.me/cms/programming/build-your-own-embeddings-api-server/)
 - [Semantic Search with OpenAI Embeddings](https://mpn.btnguyen2k.me/cms/openai/semantic-search-openai-embeddings/)
 - [Go database/sql driver for AWS DynamoDB](https://mpn.btnguyen2k.me/cms/programming/go-golang-dynamodb-sql/)
 - [Host your website on Azure, for free](https://mpn.btnguyen2k.me/cms/cloud/azure-host-website-free/)
-- [Normalize input text for embeddings or not?](https://mpn.btnguyen2k.me/cms/openai/normalization-embeddings/)
 <!-- BLOG-POST-LIST:END -->
